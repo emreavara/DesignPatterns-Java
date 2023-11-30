@@ -1,4 +1,4 @@
-package com.avara.BehavioralPatterns.Strategy;
+package com.avara.behavioral.strategy;
 
 public class StableInvestmentStrategy implements InvestmentStrategy{
   double min = 0.95;

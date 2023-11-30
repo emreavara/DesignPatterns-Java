@@ -1,4 +1,4 @@
-package com.avara.CreationalPatterns.Factory;
+package com.avara.creational.factory;
 
 public class Shape2DFactory {
   public static Shape2D createShape(Shape2DTypes shape) {

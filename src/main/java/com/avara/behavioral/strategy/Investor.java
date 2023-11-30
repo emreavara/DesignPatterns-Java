@@ -1,4 +1,4 @@
-package com.avara.BehavioralPatterns.Strategy;
+package com.avara.behavioral.strategy;
 
 import lombok.Getter;
 

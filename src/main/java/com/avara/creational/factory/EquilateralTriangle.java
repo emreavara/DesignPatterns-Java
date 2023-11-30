@@ -1,4 +1,4 @@
-package com.avara.CreationalPatterns.Factory;
+package com.avara.creational.factory;
 
 public class EquilateralTriangle implements Shape2D{
 
