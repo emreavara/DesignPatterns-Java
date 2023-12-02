@@ -7,7 +7,6 @@ public class ProxyMain {
     unauthorizedProxyAccess.deposit(500);
     unauthorizedProxyAccess.getBalance();
 
-
     // Authorized
     ProxyAccountService authorizedProxyAccess = new ProxyAccountService("admin", "password");
     authorizedProxyAccess.getBalance();
