@@ -1,8 +1,7 @@
 package com.avara.creational.abstractfactory;
 
 public class DarkChocolate extends Product {
-  public Product produce() {
+  public void produce() {
     System.out.println("Produced: Dark Chocolate");
-    return new DarkChocolate();
   }
 }
