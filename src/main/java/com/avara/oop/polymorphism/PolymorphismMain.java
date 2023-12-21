@@ -8,6 +8,4 @@ public class PolymorphismMain {
     dog.makeSound();
     cat.makeSound();
   }
-
-
 }
